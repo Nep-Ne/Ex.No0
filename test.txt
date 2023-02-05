@@ -1,4 +1,4 @@
 lay(local)
-khonglay(public)
+khonglay(publi)
 khonglay(local)
 lay(public)
